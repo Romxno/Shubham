@@ -7,3 +7,5 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 
 
+<img src="https://raw.githubusercontent.com/Shubham/Shubham/output/snake.svg" alt="Snake animation" />
+
