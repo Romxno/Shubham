@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&color=0F2187&width=435&lines=Data+Scientist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&color=0F2187&width=435&lines=DevOps+Engineer)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 
